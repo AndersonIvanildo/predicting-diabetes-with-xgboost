@@ -1,8 +1,5 @@
-
 import streamlit as st
 import pandas as pd
-import pickle
-import numpy as np
 import os
 import xgboost as xgb
 
