@@ -1,1 +1,3 @@
-# predicting-diabetes-with-xgboost
+# Predicting Diabetes With XGBoost
+
+This project implements XGBoost to predict diabetes in individuals. Using a dataset from Kaggle, the application consists of a Jupyter Notebook used for annotating studies on this type of algorithm and applying it to an example (Diabetes Prediction). Once the notebook was created, the resulting 'product' is a simple web application built with Streamlit, allowing users to test the prediction based on the provided variables.
